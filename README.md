@@ -3,7 +3,10 @@ Telegram bot created to help content creattors find ads faster without interacti
 You can add you channel to bot, it will gether all info about your channel views/followers/statistics and create graphs for others to see.
 You can order ads in bot and it will be automaticaly posted in channel after payment. 
 
+NOT FULLY TRANSLATED on UKRAINIAN
+
 You can sort channels in bot CPV/Sups/ERR using buttons
+
 ![alt text](https://i.ibb.co/1zhvYsP/Screenshot-from-2023-04-26-12-54-52.png)
 
 Then see statistics for channel that updated every day at 7am
