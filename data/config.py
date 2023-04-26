@@ -15,5 +15,5 @@ password = os.getenv('password')
 db_name = os.getenv('db_name')
 port = os.getenv('port')
 """IMGUR"""
-CLIENT_ID = "8fcca220910c939"
-CLIENT_SECRET = 'dcaf0c3c1705f95111a8552e985f5212cc9a881f'
+CLIENT_ID = "8fcca220910c939" #FAKE
+CLIENT_SECRET = 'dcaf0c3c1705f95111a8552e985f5212cc9a881f' #FAKE
